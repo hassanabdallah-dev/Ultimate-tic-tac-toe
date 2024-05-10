@@ -1,6 +1,6 @@
 # Ultimate Tic Tac Toe Game
 
-This project was developed as a part of the evaluation criteria for the 'Artificial Intelligence' course during the second semester of the master's program at Lebanese University.
+This project was developed as a part of the evaluation exam for the 'Artificial Intelligence' course during the second semester of the master's program at Lebanese University.
 
 ## Overview
 
@@ -28,6 +28,6 @@ To run the source code, ensure you have the following prerequisites installed:
 1. Clone this repository to your local machine.
 2. Open the Unity project using Unity.
 3. Open the source code through the solution file using Visual Studio.
-4. Build and run the project to start playing the game.
+4. Build and run the project.
 
 
