@@ -1,6 +1,6 @@
 # Ultimate Tic Tac Toe Game
 
-This project was developed as a part of the evaluation exam for the 'Artificial Intelligence' course during the second semester of the master's program at Lebanese University.
+This project was developed as a part of the evaluation exam for the 'Artificial Intelligence' course during the second semester of the master's program of the academic year 2020-2021 at the Lebanese University.
 
 ## Overview
 
